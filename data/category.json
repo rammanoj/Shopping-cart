@@ -1,0 +1,30 @@
+[
+  {
+	"name":"Mobiles",
+	"items": [
+	  {"name":"Apple iphone 7", "price": "75000", "quantity": 0, "addedToCart": false, "showAddToCart": false},
+	  {"name":"Apple ipad",  "price": "45000", "quantity": 0, "addedToCart": false, "showAddToCart": false},
+	  {"name":"RedMI Note4", "price": "10000", "quantity": 0, "addedToCart": false, "showAddToCart": false},
+	  {"name":"Lenovo K6", "price": "80000", "quantity": 0, "addedToCart": false, "showAddToCart": false}
+  	]
+  },
+  {
+	"name":"Books",
+	"items": [
+	  {"name":"Three Mistakes of My life", "price": "300", "quantity": 0, "addedToCart": false, "showAddToCart": false},
+	  {"name":"Game of Thrones (series)", "price": "7000", "quantity": 0, "addedToCart": false, "showAddToCart": false},
+	  {"name":"The Lord of Rings (series)", "price": "6000", "quantity": 0, "addedToCart": false, "showAddToCart": false},
+	  {"name":"The color of Magic", "price": "500", "quantity": 0, "addedToCart": false, "showAddToCart": false},
+	  {"name":"The Way of Kings", "price": "450", "quantity": 0, "addedToCart": false, "showAddToCart": false}
+	]
+  },
+  {
+	"name":"Electronics",
+	"items": [
+	  {"name":"Washing machine", "brand": "Whirpool", "price": "20000", "quantity": 0, "addedToCart": false, "showAddToCart": false},
+	  {"name": "Fridge", "brand":"Whirpool", "price": "30000", "quantity": 0, "addedToCart": false, "showAddToCart": false},
+	  {"name": "Laptop", "brand": "Apple", "price": "100000", "quantity": 0, "addedToCart": false, "showAddToCart": false},
+    {"name": "Laptop", "brand": "HP", "price": "50000", "quantity": 0, "addedToCart": false, "showAddToCart": false}
+  ]
+  }
+]
